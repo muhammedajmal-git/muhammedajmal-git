@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="aju_hacker_typing_kerala_india.gif" alt="Aju's Hacker Terminal - Kerala, India" width="100%" />
+  <img src="./aju_hacker_typing_kerala_india.gif"
+       alt="Aju's Hacker Terminal"
+       width="100%" />
 </p>
 
 # Hi there, I'm Muhammed Ajmal C P 👋
